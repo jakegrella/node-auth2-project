@@ -1,0 +1,23 @@
+{
+  "name": "m2-node-auth-II-jwt",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakegrella/node-auth2-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakegrella/node-auth2-project/issues"
+  },
+  "homepage": "https://github.com/jakegrella/node-auth2-project#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}
